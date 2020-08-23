@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi, StudyingFather here! 👋
+
+I'm Shuhao Zhang, a senior high school student from Urumqi, China.
+
+- ✏️ Editor of [OI Wiki](https://oi-wiki.org)
+- 💼 Project Manager of [NovaOJ](https://noj.ac)
+- 👯 Former [Luogu](https://www.luogu.com.cn) Problem Admin
+- 🌱 Learning competitive programming
+- ⚒️ C++/Python
+- 👨 Pronouns: he/him
+
+[![](https://cfrating.ihcr.top/?user=StudyingFather&style=flat)](https://codeforces.com/profile/StudyingFather)
+
+![](https://projecteuler.net/profile/StudyingFather.png)
+
+## Reach Me
+
+- 💬 My Blog: <https://studyingfather.com>
+- 📫 My email: <studyingfather@gmail.com>
 
 <!--
 **StudyingFather/StudyingFather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
