@@ -6,8 +6,9 @@ I'm Shuhao Zhang, a senior high school student from Urumqi, China.
 - 💼 Project Manager of [NovaOJ](https://noj.ac)
 - 👯 Former [Luogu](https://www.luogu.com.cn) Problem Admin
 - 🌱 Learning competitive programming
-- ⚒️ C++/Python
+- ⚒️ C++/Python, learning Rust now
 - 👨 Pronouns: he/him
+- 🔑 GPG key: [`3628110289CFC897`](https://github.com/StudyingFather.gpg)
 
 [![](https://cfrating.ihcr.top/?user=StudyingFather&style=flat)](https://codeforces.com/profile/StudyingFather)
 
