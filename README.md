@@ -1,12 +1,12 @@
 # Hi, StudyingFather here! 👋
 
-I'm Shuhao Zhang, a senior high school student from Urumqi, China.
+I'm Shuhao Zhang, a freshman at BIT.
 
 - ✏️ Editor of [OI Wiki](https://oi-wiki.org)
 - 💼 Project Manager of [NovaOJ](https://noj.ac)
 - 👯 Former [Luogu](https://www.luogu.com.cn) Problem Admin
 - 🌱 Learning competitive programming
-- ⚒️ C++/Python, learning Rust now
+- ⚒️ C++/Python/Rust
 - 👨 Pronouns: he/him
 - 🔑 GPG key: [`3628110289CFC897`](https://github.com/StudyingFather.gpg)
 
