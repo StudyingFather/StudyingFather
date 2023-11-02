@@ -4,9 +4,9 @@ I'm Shuhao Zhang, a junior undergraduate at BIT.
 
 - ✏️ Editor of [OI Wiki](https://oi-wiki.org)
 - 💼 Project Manager of [NovaOJ](https://noj.ac)
-- 👯 Former [Luogu](https://www.luogu.com.cn) Problem Admin
+- 👯 Member of [Luogu](https://www.luogu.com.cn) Problemset Admin Group
 - 🌱 Learning competitive programming
-- ⚒️ C++/Python/Rust
+- ⚒️ C++/Rust/Haskell/Python
 - 👨 Pronouns: he/him
 - 🔑 GPG key: [`3628110289CFC897`](https://github.com/StudyingFather.gpg)
 
