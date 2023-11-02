@@ -1,6 +1,6 @@
 # Hi, StudyingFather here! 👋
 
-I'm Shuhao Zhang, a freshman at BIT.
+I'm Shuhao Zhang, a junior undergraduate at BIT.
 
 - ✏️ Editor of [OI Wiki](https://oi-wiki.org)
 - 💼 Project Manager of [NovaOJ](https://noj.ac)
