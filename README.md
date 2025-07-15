@@ -1,6 +1,6 @@
 # Hi, StudyingFather here! 👋
 
-I'm Shuhao Zhang, a first year PhD student at Peking University.
+I'm Shuhao Zhang, a first-year PhD student at Peking University.
 
 - ✏️ Editor of [OI Wiki](https://oi-wiki.org)
 - 💼 Project Manager of [NovaOJ](https://noj.ac)
